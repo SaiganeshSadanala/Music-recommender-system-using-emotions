@@ -77,6 +77,8 @@ You can install the required libraries using pip. Open a terminal or command pro
 
 • [tkinter](https://docs.python.org/3/library/tkinter.html) for GUI creation.
 
+## License
+This project is licensed under the [MIT License](https://opensource.org/license/mit)
 ### Key Sections Explained
 
 - **Overview**: A brief description of the project's purpose and functionality.
