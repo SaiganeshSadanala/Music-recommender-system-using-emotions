@@ -27,8 +27,8 @@ This project is an application for real-time emotion recognition using a live we
 1. **Install Required Libraries**
 
    You can install the required libraries using pip. Open a terminal or command prompt and run:
-
-   ```sh
+   
+   ```s
    pip install numpy opencv-python Pillow tensorflow matplotlib
 
 ## Download or Train the Model
@@ -43,5 +43,5 @@ If using a pre-trained model, ensure the path to the weights file in the code is
 
 Run the main Python script to start the application. Make sure your webcam is connected.
 
-  ```sh
-  python mainfile.py
+  ```s
+  python training.py
