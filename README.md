@@ -33,26 +33,25 @@ You can install the required libraries using pip. Open a terminal or command pro
 
 2. **Download or Train the Model**
 
-If you don’t have a pre-trained model, you can train one using the provided code or download a pre-trained model that fits your needs. Ensure the model file (e.g., vgg19.h5.keras) is in the correct directory.
+      If you don’t have a pre-trained model, you can train one using the provided code or download a pre-trained model that fits your needs. Ensure the model file (e.g., vgg19.h5.keras) is in the correct directory.
 
 3. **Update Model Path**
 
-If using a pre-trained model, ensure the path to the weights file in the code is correct. Update the path in your code to point to the correct weights file.
+      If using a pre-trained model, ensure the path to the weights file in the code is correct. Update the path in your code to point to the correct weights file.
 
 4. **Run the Application**
 
-Run the main Python script to start the application. Make sure your webcam is connected.
+      Run the main Python script files one by one to start the application. Make sure your webcam is connected.
 
 ```s
   python Training.py
 ```
-then
 ```s
   python Prediction.py 
 ```
 5. **Capture and Analyze Images**
 
-The application will display the live feed from the webcam. Click the "Capture Image" button to take a snapshot from the webcam. The application will process the captured image to determine the emotion and display it.
+      The application will display the live feed from the webcam. Click the "Capture Image" button to take a snapshot from the webcam. The application will process the captured image to determine the emotion and display it.
 
 ## Usage
 
