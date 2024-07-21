@@ -89,8 +89,6 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 - **Troubleshooting**: Common problems and their solutions.
 - **Acknowledgments**: Credits to the tools and libraries used.
 
-This README file should help users understand how to set up and use your emotion recognition application effectively. Adjust the content as needed to fit any additional details or specific instructions relevant to your project.
-
 
 
 
